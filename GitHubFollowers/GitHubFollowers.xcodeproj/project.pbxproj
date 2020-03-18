@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F447934B2422A0B200C9276B /* UITableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F447934A2422A0B200C9276B /* UITableView.swift */; };
 		F4BEF8BE242258C3005F4C83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4BEF8BD242258C3005F4C83 /* AppDelegate.swift */; };
 		F4BEF8C0242258C3005F4C83 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4BEF8BF242258C3005F4C83 /* SceneDelegate.swift */; };
 		F4BEF8C7242258C4005F4C83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4BEF8C6242258C4005F4C83 /* Assets.xcassets */; };
@@ -46,6 +47,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F447934A2422A0B200C9276B /* UITableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableView.swift; sourceTree = "<group>"; };
 		F4BEF8BA242258C3005F4C83 /* GitHubFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4BEF8BD242258C3005F4C83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4BEF8BF242258C3005F4C83 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				F4BEF91A2422595E005F4C83 /* Date.swift */,
 				F4BEF91C2422595E005F4C83 /* UIView.swift */,
 				F4BEF91E2422595E005F4C83 /* UIViewController.swift */,
+				F447934A2422A0B200C9276B /* UITableView.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -183,15 +186,14 @@
 		F4BEF8D62422595E005F4C83 /* Custom Views */ = {
 			isa = PBXGroup;
 			children = (
+				F4BEF8EB2422595E005F4C83 /* Buttons */,
+				F4BEF8DD2422595E005F4C83 /* TabBarController */,
+				F4BEF8E02422595E005F4C83 /* ViewControllers */,
 				F4BEF9072422595E005F4C83 /* Views */,
-				F4BEF9002422595E005F4C83 /* ItemInfoVCs */,
 				F4BEF8FD2422595E005F4C83 /* Text Fields */,
 				F4BEF8F62422595E005F4C83 /* Labels */,
 				F4BEF8F32422595E005F4C83 /* ImageViiews */,
 				F4BEF8EE2422595E005F4C83 /* Cells */,
-				F4BEF8EB2422595E005F4C83 /* Buttons */,
-				F4BEF8E02422595E005F4C83 /* ViewControllers */,
-				F4BEF8DD2422595E005F4C83 /* TabBarController */,
 			);
 			path = "Custom Views";
 			sourceTree = "<group>";
@@ -207,6 +209,7 @@
 		F4BEF8E02422595E005F4C83 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				F4BEF9002422595E005F4C83 /* ItemInfoVCs */,
 				F4BEF8E12422595E005F4C83 /* GFDataLoadingVC.swift */,
 				F4BEF8E32422595E005F4C83 /* GFAlertVC.swift */,
 				F4BEF8E52422595E005F4C83 /* GFUserInfoHeaderVC.swift */,
@@ -374,6 +377,7 @@
 				F4BEF9112422595E005F4C83 /* User.swift in Sources */,
 				F4BEF8E82422595E005F4C83 /* PersistenceManager.swift in Sources */,
 				F4BEF9042422595E005F4C83 /* GFItemInfoVC.swift in Sources */,
+				F447934B2422A0B200C9276B /* UITableView.swift in Sources */,
 				F4BEF8F82422595E005F4C83 /* GFBodyLabel.swift in Sources */,
 				F4BEF8ED2422595E005F4C83 /* GFButton.swift in Sources */,
 				F4BEF8FC2422595E005F4C83 /* GFTitleLabel.swift in Sources */,
