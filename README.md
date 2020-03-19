@@ -10,7 +10,10 @@ In this application you can retrieve a list of user’s followers, search them a
 
 With use of Sean Allen tutorial series. 
 
+## Demo
+
 ### On iPhone 11 Pro Max
+<img src="https://gfycat.com/illiteratecomfortablearuanas" />
 ![1-iphoneSE](https://gfycat.com/illiteratecomfortablearuanas)
 ![image](https://gfycat.com/handyfreedowitcher)
 ![image](https://gfycat.com/educatedparchedamericanshorthair)
