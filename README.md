@@ -13,17 +13,14 @@ With use of Sean Allen tutorial series.
 ## Demo
 
 ### On iPhone 11 Pro Max
-< a href="https://gfycat.com/illiteratecomfortablearuanas"/></a>
-
-![1-iphoneSE](https://gfycat.com/illiteratecomfortablearuanas)
-![image](https://gfycat.com/handyfreedowitcher)
-![image](https://gfycat.com/educatedparchedamericanshorthair)
-![image](https://gfycat.com/clearcutbruisedbichonfrise)
-
+![image](/GitHubFollowers/Demo/1-iphone11maxpro.gif)
+![image](/GitHubFollowers/Demo/2-iphone11maxpro.gif)
+![image](/GitHubFollowers/Demo/3-iphone11maxpro.gif)
+![image](/GitHubFollowers/Demo/4-iphone11maxpro.gif)
 
 
 ### On iPhone SE
-![image](https://gfycat.com/sneakytighthorseshoecrab)
-![image](https://gfycat.com/snoopythirstyjackrabbit)
-![image](https://gfycat.com/honorablewelcomeiberianbarbel)
-![image](https://gfycat.com/positiveimpracticalcuttlefish)
+![image](/GitHubFollowers/Demo/1-iphoneSE.gif)
+![image](/GitHubFollowers/Demo/2-iphoneSE.gif)
+![image](/GitHubFollowers/Demo/3-iphoneSE.gif)
+![image](/GitHubFollowers/Demo/4-iphoneSE.gif)
