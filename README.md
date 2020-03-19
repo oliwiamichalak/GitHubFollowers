@@ -10,6 +10,6 @@ In this application you can retrieve a list of user’s followers, search them a
 
 With use of Sean Allen tutorial series. 
 
-![](1-iphoneSE.gif)
+![image](1-iphoneSE.gif)
 
 
