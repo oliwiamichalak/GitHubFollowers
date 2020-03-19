@@ -13,7 +13,7 @@ With use of Sean Allen tutorial series.
 ## Demo
 
 ### On iPhone 11 Pro Max
-![image](/GitHubFollowers/Demo/1-iphone11maxpro.gif)
+![image](/GitHubFollowers/Demo/1-iphone11maxpro.gif = 250x400)
 ![image](/GitHubFollowers/Demo/2-iphone11maxpro.gif)
 ![image](/GitHubFollowers/Demo/3-iphone11maxpro.gif)
 ![image](/GitHubFollowers/Demo/4-iphone11maxpro.gif)
