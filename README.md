@@ -13,7 +13,8 @@ With use of Sean Allen tutorial series.
 ## Demo
 
 ### On iPhone 11 Pro Max
-<img src="https://gfycat.com/illiteratecomfortablearuanas" />
+< a href="https://gfycat.com/illiteratecomfortablearuanas"></a>
+
 ![1-iphoneSE](https://gfycat.com/illiteratecomfortablearuanas)
 ![image](https://gfycat.com/handyfreedowitcher)
 ![image](https://gfycat.com/educatedparchedamericanshorthair)
